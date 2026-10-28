@@ -203,6 +203,12 @@ Un certificat **non signé par TekUp-CA** n'apparaît même pas dans la liste du
 | 6. Module Odoo | Installation de `cert_auth_check` pour comparer certificat et login |
 | 7. Tests | Validation des 3 scénarios (accès valide, login incompatible, faux certificat) |
 
+## 💻 Commandes de création des certificats
+
+Toutes les commandes OpenSSL (création de la CA, certificat serveur, certificats clients, vérifications) sont détaillées ici :
+
+👉 [Voir les commandes](docs/commandes-certificats.md)
+
 ---
 
 ## 📊 Sécurité et traçabilité
